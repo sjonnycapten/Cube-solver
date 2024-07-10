@@ -1,5 +1,5 @@
 # Cube-solver
-Cube solving robot, solves rubik’s cubes what more can I say?
+Cube solving robot. Solves rubik’s cubes, what more can I say?
 
 
 Created as final project for the second Embedded Systems and Automation semester I took in my  second year of Uni.  
